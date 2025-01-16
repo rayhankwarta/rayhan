@@ -51,13 +51,13 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AzzikraPraqastaKusuma123&show_icons=true&theme=radical" alt="Azzikra's GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhankwarta&show_icons=true&theme=radical" alt="Azzikra's GitHub Stats" height="180em" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzzikraPraqastaKusuma123&layout=compact&theme=radical" alt="Azzikra's Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankwarta&layout=compact&theme=radical" alt="Azzikra's Top Languages" height="180em" />
   
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=AzzikraPraqastaKusuma123&theme=radical&hide_border=true" alt="Azzikra's GitHub Streak" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=rayhankwarta&theme=radical&hide_border=true" alt="Azzikra's GitHub Streak" height="180em" />
 </div>
 
 
