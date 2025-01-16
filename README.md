@@ -1,35 +1,67 @@
-# Hi, I'm Rayhan 👋
-I'm a passionate Data Scientist and Data Analyst with a love for analyzing complex datasets and uncovering meaningful insights. 📊🔍
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rayhan!;" />
+</h1>
 
-![Banner](https://github.com/yourusername/yourrepository/blob/main/banner.png)
+<h3 align="center">
+    🚀 A talented Web Developer from Indonesia, skilled in creating innovative and intuitive digital platforms.
+</h3>
 
-### 🚀 About Me
-I specialize in working with large datasets, machine learning models, and data visualization techniques to help businesses make data-driven decisions. Always learning new technologies and tools to improve my analytical skills!
+<br/>
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-FF7F0E?logo=matplotlib&logoColor=white&style=flat-square)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
-![Jupyter](https://img.shields.io/badge/-Jupyter-FFB13B?logo=jupyter&logoColor=black&style=flat-square)
+<div align="center">
+    🔭 I’m currently working on <strong>a marketplace</strong> <br/>
+    🌱 I’m currently learning <strong>Docker, Typescript</strong> <br/>
+    💬 Ask me about <strong>Javascript, Python</strong> or anything via <a href="https://github.com/AzzikraPraqastaKusuma123"><strong>Issues</strong></a> <br/>
+    😄 Fun fact: <strong>Hot Water Freezes Faster than Cold Water</strong> <br/>
+</div>
 
-### 📊 GitHub Stats
-![Rayhan GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhankwarta&show_icons=true&theme=radical)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankwarta&layout=compact&theme=radical)
+<div align="center">
+    <img src="pixelard.gif" alt="Deskripsi GIF" width="500">
+</div>
 
-### 📚 Featured Projects
-- [Data Analysis on Sales Dataset](https://github.com/yourusername/sales-analysis) - Analyzing sales data to uncover patterns and trends.
-- [Machine Learning Model for Customer Churn](https://github.com/yourusername/churn-prediction) - Predicting customer churn using various machine learning algorithms.
-- [Real-Time Data Dashboard](https://github.com/yourusername/dashboard) - A real-time dashboard using Python, R, and Flask to visualize streaming data.
+<br/>
 
-### ✨ Fun Facts
-- 🌱 Currently diving deep into **Deep Learning**, **AI**, and **R for Data Science**.
-- 📈 Passionate about building predictive models and data visualizations.
-- 💬 Always up for a discussion about new data science trends and technologies.
+<div align="center">
+    <a href="mailto:azzikrapraqasta2@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://linkedin.com/in/azzikra-praqasta-kusuma-198774271" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://azzikrapraqastakusuma123.github.io/portfolio-personal/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    </a>
+</div>
 
-### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/rayhankwarta)
-- [Email](mailto:your.email@example.com)
+<hr/>
+
+
+<h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
+<br/>
+<div align="center">
+         <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,git,github,vscode,figma,laravel" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,nodejs,javascript,typescript,python,php,nextjs,mysql,mongodb,java,cpp" />
+</div>
+
+<br/>
+<br/>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AzzikraPraqastaKusuma123&show_icons=true&theme=radical" alt="Azzikra's GitHub Stats" height="180em" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzzikraPraqastaKusuma123&layout=compact&theme=radical" alt="Azzikra's Top Languages" height="180em" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=AzzikraPraqastaKusuma123&theme=radical&hide_border=true" alt="Azzikra's GitHub Streak" height="180em" />
+</div>
+
+
+
+
+
+
