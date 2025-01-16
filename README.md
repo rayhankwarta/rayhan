@@ -1,7 +1,7 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Rayhan 👋
 I'm a passionate Data Scientist and Data Analyst with a love for analyzing complex datasets and uncovering meaningful insights. 📊🔍
 
-![Banner](https://yourbannerlink.com/banner.png)
+![Banner](https://github.com/yourusername/yourrepository/blob/main/banner.png)
 
 ### 🚀 About Me
 I specialize in working with large datasets, machine learning models, and data visualization techniques to help businesses make data-driven decisions. Always learning new technologies and tools to improve my analytical skills!
@@ -16,9 +16,9 @@ I specialize in working with large datasets, machine learning models, and data v
 ![Jupyter](https://img.shields.io/badge/-Jupyter-FFB13B?logo=jupyter&logoColor=black&style=flat-square)
 
 ### 📊 GitHub Stats
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Rayhan GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayhankwarta&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhankwarta&layout=compact&theme=radical)
 
 ### 📚 Featured Projects
 - [Data Analysis on Sales Dataset](https://github.com/yourusername/sales-analysis) - Analyzing sales data to uncover patterns and trends.
